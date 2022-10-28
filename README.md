@@ -1,5 +1,9 @@
 # arlplus-scan
-ARL使用代理池联动nuclei，xray通过企业微信机器人告警
+红队自动化打点神器！！！
+ARL使用代理池联动nuclei，xray并通过企业微信机器人告警。
+
+ARL分布式部署参考：
+https://github.com/Cedric1314/arl-distributed-
 
 提前预装nuclei，xray
 
