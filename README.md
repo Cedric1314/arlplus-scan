@@ -7,7 +7,7 @@ https://github.com/Cedric1314/arl-distributed-
 
 提前预装nuclei，xray
 
-配置arl地址，账号密码，token，微信机器人地址。
+配置arl地址，账号密码，微信机器人地址。
 
 运行：python3  arl_nuclei_xray_wechat.py 
 
